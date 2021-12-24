@@ -6,5 +6,8 @@
 https://github.com/zerosum99/numpy_itple
 
 # 중고 AI 교과서
-고등학교 인공지능 기초 (길벗출판사)
+- 고등학교 인공지능 기초 (길벗출판사)
 https://textbook.gilbut.co.kr/book/index.html#p=1
+
+- 고등학교 인공지능 수학 (씨마스)
+https://www.cmass21.co.kr/ebook/H1/ingongjineung-suhag_ebook/ingongjineung-suhag_ebook.html
