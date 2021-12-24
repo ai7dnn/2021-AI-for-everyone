@@ -11,3 +11,7 @@ https://textbook.gilbut.co.kr/book/index.html#p=1
 
 - 고등학교 인공지능 수학 (씨마스)
 https://www.cmass21.co.kr/ebook/H1/ingongjineung-suhag_ebook/ingongjineung-suhag_ebook.html
+
+- 고등학교 인공지능과 피지컬 컴퓨팅 (금성출판사)
+https://file.kumsung.co.kr/text/ebook/2015re/pre2020/h_computing/webview/index.html
+
