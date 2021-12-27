@@ -1,6 +1,13 @@
 # 2021-AI-for-everyone
 4차 산업혁명 시대의 인공지능
 
+## 자료 내려 받는 방법
+1. 깃 설치한 경우, 다음 명령으로
+`$ git clone https://github.com/ai7dnn/2021-AI-for-everyone.git`
+
+2. 압축파일로 내려 받아 풀기
+![image](https://user-images.githubusercontent.com/70050528/147514250-e799b8df-8120-4d70-9a53-4819601a491c.png)
+
 ## 참고 도서
 딥러닝 머신러닝을 위한 파이썬 넘파이
 https://github.com/zerosum99/numpy_itple
