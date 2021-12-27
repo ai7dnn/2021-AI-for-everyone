@@ -6,7 +6,7 @@
 `$ git clone https://github.com/ai7dnn/2021-AI-for-everyone.git`
 
 2. 압축파일로 내려 받아 풀기
-![image](https://user-images.githubusercontent.com/70050528/147514250-e799b8df-8120-4d70-9a53-4819601a491c.png)
+![image](https://user-images.githubusercontent.com/70050528/147514339-94382d39-5787-4d16-a202-309964f5a534.png)
 
 ## 참고 도서
 딥러닝 머신러닝을 위한 파이썬 넘파이
