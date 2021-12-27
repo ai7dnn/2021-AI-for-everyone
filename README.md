@@ -15,7 +15,7 @@ https://www.cmass21.co.kr/ebook/H1/ingongjineung-suhag_ebook/ingongjineung-suhag
 - 고등학교 인공지능과 피지컬 컴퓨팅 (금성출판사)
 https://file.kumsung.co.kr/text/ebook/2015re/pre2020/h_computing/webview/index.html
 
-- 일반일 위한 인공지능 수학
+- 일반인 위한 인공지능 수학
 http://matrix.skku.ac.kr/math4ai-intro/
 
 ## 인공지능 체험
