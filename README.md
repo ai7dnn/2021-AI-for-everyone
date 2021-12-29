@@ -25,6 +25,10 @@ https://file.kumsung.co.kr/text/ebook/2015re/pre2020/h_computing/webview/index.h
 - 일반인 위한 인공지능 수학
 http://matrix.skku.ac.kr/math4ai-intro/
 
-## 인공지능 체험
+## 인공지능 체험 및 영상
 - Neural Net for Handwritten Digit Recognition in JavaScript
 http://myselph.de/neuralNet.html
+
+- 딥러닝 이해(유튜브 영상)
+https://www.youtube.com/watch?v=aircAruvnKk![image](https://user-images.githubusercontent.com/70050528/147711062-4f6152e4-b43a-4ae1-94ab-8d9d0a7d90a0.png)
+
