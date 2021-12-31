@@ -47,7 +47,7 @@ import matplotlib as mpl
 import matplotlib.pyplot as plt
 
 - # 한글 폰트 지원
-plt.rc('font', family='NanumBarunGothic') 
+`plt.rc('font', family='NanumBarunGothic')`
 - # 음수 부호 지원
 mpl.rcParams['axes.unicode_minus'] = False
 
