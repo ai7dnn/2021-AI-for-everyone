@@ -33,9 +33,9 @@ http://myselph.de/neuralNet.html
 https://www.youtube.com/watch?v=aircAruvnKk![image](https://user-images.githubusercontent.com/70050528/147711062-4f6152e4-b43a-4ae1-94ab-8d9d0a7d90a0.png)
 
 ## Colab 한글 처리 방법
-- APT(Advanced Packaging Tool)로 폰트 설치 실행
-!apt -qq -y install fonts-nanum
-import matplotlib as mpl
+- APT(Advanced Packaging Tool)로 폰트 설치 실행  
+!apt -qq -y install fonts-nanum  
+import matplotlib as mpl  
 
 - # 폰트 매니저의 메서드로 다시 폰트를 구성
 - # 폰트 구성 후 '다시 실행'해야 재설정된 폰트가 반영
