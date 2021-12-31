@@ -32,3 +32,21 @@ http://myselph.de/neuralNet.html
 - 딥러닝 이해(유튜브 영상)
 https://www.youtube.com/watch?v=aircAruvnKk![image](https://user-images.githubusercontent.com/70050528/147711062-4f6152e4-b43a-4ae1-94ab-8d9d0a7d90a0.png)
 
+## Colab 한글 처리 방법
+# APT(Advanced Packaging Tool)로 폰트 설치 실행
+!apt -qq -y install fonts-nanum
+import matplotlib as mpl
+# 폰트 매니저의 메서드로 다시 폰트를 구성
+# 폰트 구성 후 '다시 실행'해야 재설정된 폰트가 반영
+mpl.font_manager._rebuild()
+
+# 한글 폰트를 선명하도록 하는 파워명령어
+%config InlineBackend.figure_format = 'retina'
+import matplotlib as mpl
+import matplotlib.pyplot as plt
+# 한글 폰트 지원
+plt.rc('font', family='NanumBarunGothic') 
+# 음수 부호 지원
+mpl.rcParams['axes.unicode_minus'] = False
+
+
