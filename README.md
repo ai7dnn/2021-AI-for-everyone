@@ -40,8 +40,9 @@ https://www.youtube.com/watch?v=aircAruvnKk![image](https://user-images.githubus
 `import matplotlib as mpl`  
 
 - 폰트 매니저의 메서드로 다시 폰트를 구성
-- 폰트 구성 후 '다시 실행'해야 재설정된 폰트가 반영  
 `mpl.font_manager._rebuild()`  
+
+- 폰트 구성 후 '다시 실행'해야 재설정된 폰트가 반영  
 
 #### 2. 위를 실행 후 다음은 다시 시작하여 실행
 
@@ -52,7 +53,9 @@ https://www.youtube.com/watch?v=aircAruvnKk![image](https://user-images.githubus
 
 - 한글 폰트 지원  
 `plt.rc('font', family='NanumBarunGothic')`  
-- 음수 부호 지원  
+- 음수 부호 문제(깨지는 현상) 없도록 지원  
 `mpl.rcParams['axes.unicode_minus'] = False`
 
+## 수학 기초(중등 수준)
+- 수학방 https://mathbang.net/443
 
