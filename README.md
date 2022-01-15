@@ -67,3 +67,11 @@ https://www.youtube.com/watch?v=aircAruvnKk![image](https://user-images.githubus
 ## 수학 기초(중등 수준)
 - 수학방 https://mathbang.net/443
 - 수학공장 https://www.mathfactory.net/11239
+
+# 개발환경
+- 파이썬(https://www.python.com)
+- 파이참
+- 아나콘다
+- [코랩(Colab)](https://colab.research.google.com)
+    * [코랩 가이드](https://theorydb.github.io/dev/2019/08/23/dev-ml-colab)   
+
