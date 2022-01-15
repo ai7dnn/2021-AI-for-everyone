@@ -56,6 +56,13 @@ https://www.youtube.com/watch?v=aircAruvnKk![image](https://user-images.githubus
 - 음수 부호 문제(깨지는 현상) 없도록 지원  
 `mpl.rcParams['axes.unicode_minus'] = False`
 
+#### 3. 한글 점검 실행
+
+`import numpy as np`
+`import matplotlib.pyplot as plt`
+`plt.plot(range(-20, 80), np.random.randn(100).cumsum(), 'r--')`
+`plt.title('한글 점검');`
+
 ## 수학 기초(중등 수준)
 - 수학방 https://mathbang.net/443
 - 수학공장 https://www.mathfactory.net/11239
