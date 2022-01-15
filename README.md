@@ -59,10 +59,10 @@ https://www.youtube.com/watch?v=aircAruvnKk![image](https://user-images.githubus
 #### 3. 한글 점검 실행
 
 - 맷플로리브 그래프 제목에 한글 폰트 점검  
-`import numpy as np` 
-`import matplotlib.pyplot as plt` 
-`plt.plot(range(-20, 80), np.random.randn(100).cumsum(), 'r--')` 
-`plt.title('한글 점검');` 
+`import numpy as np`   
+`import matplotlib.pyplot as plt`     
+`plt.plot(range(-20, 80), np.random.randn(100).cumsum(), 'r--')`    
+`plt.title('한글 점검');`  
 
 ## 수학 기초(중등 수준)
 - 수학방 https://mathbang.net/443
